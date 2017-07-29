@@ -8,14 +8,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
